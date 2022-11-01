@@ -2,7 +2,8 @@
 
 
 ## Research Question 
-We study the impact of finance disparities on the K-12 schools in Washington D.C. before and during the COVID pandemic. We want to find out whether students' academic performances from 2019 to now have been affected by the varying levels of financial support that each shcool can apply.    
+We will evaluate the impact of financial disparities on test scores in K-12 schools in Washington D.C. before and after the COVID-19 pandemic. We want to find out whether students' academic performances been affected by the varying levels of financial support that each school can apply.    
+We hypothesize that a school's level of spending plays a factor in how much test scores varied; meaning that the more resources the school was able to provide, the less the math and reading scores dropped from 2019 to 2021.
 
 
 ## Data Sources [(Google Drive)](https://drive.google.com/drive/folders/1Qk-ejtFRSZE5vp1_clnRzBpCVDkI11X6?usp=sharing)
