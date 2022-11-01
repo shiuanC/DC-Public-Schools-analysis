@@ -6,9 +6,9 @@ We study the impact of finance disparities on the K-12 schools in Washington D.C
 
 
 ## Data Sources [(Google Drive)](https://drive.google.com/drive/folders/1Qk-ejtFRSZE5vp1_clnRzBpCVDkI11X6?usp=sharing)
-- For measuring students' academic performances we use [NAEP data]([NDE Core Web (nationsreportcard.gov)](https://www.nationsreportcard.gov/ndecore/landing))
-- For school spending data we use [Edunomics Lab data]([NERD$ Data Download - Edunomics Lab](https://edunomicslab.org/nerds-download/))
-- For demographic data of children and parents we use [NCES data]([Index (ed.gov)](https://nces.ed.gov/programs/edge/TableViewer/acsProfile/2019))
+- For measuring students' academic performances we use [NAEP data](https://www.nationsreportcard.gov/ndecore/landing)
+- For school spending data we use [Edunomics Lab data](https://edunomicslab.org/nerds-download/)
+- For demographic data of children and parents we use [NCES data](https://nces.ed.gov/programs/edge/TableViewer/acsProfile/2019)
 - For geographic data of school district we use [Census data](https://www.census.gov/programs-surveys/sdrp/updates/school-district-boundaries.html)
 
 
