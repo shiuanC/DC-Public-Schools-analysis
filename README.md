@@ -19,6 +19,7 @@ We hypothesize that a school's level of spending plays a factor in how much test
 - [ ] How the family income levels and the financial disparities among schools contribute to students' adaptability to online learning? 
 - [ ] How the pandemic impact differently on DC's public schools and charter schools? 
 
+## google doc : https://docs.google.com/document/d/1OqDUkqvDUaNT7UChBlY2vDq3t-FQkgKKANqsNfVpwvc/edit#
 
 ## Analytic Approach *(to elaberate)*
 
