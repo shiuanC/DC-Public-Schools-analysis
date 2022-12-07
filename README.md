@@ -65,7 +65,3 @@ We hypothesize that a school's level of spending plays a factor in how much test
 - [ ] uses an ols regression model to see the effect of per-pupil expenditures STAR score
 - [ ] returns summary table of regression findings
 
-## Analytic Approach *(to elaberate)*
-
-
-## Findings and Discussion *(to elaberate)*
